@@ -1,6 +1,6 @@
 :root {
     --primaryText: #fff;
-    --secondaryText: hsl(250, 94%, 6%);
+    --secondaryText: hsl(0, 0%, 100%);
     --primary: rgba(5, 7, 71, 0.6);
     --secondary: rgb(236, 236, 242); 
     --buttonHover: rgba(22, 0, 81, 0.4);
@@ -34,7 +34,7 @@ body {
     background-attachment: fixed;
     /* Resizes the background image to cover the entire container */
     background-size: cover;
-    font-family: Futura, Verdana, sans-serif;
+    font-family: "Cedarville Cursive", cursive;
     line-height: 1.5;
     font-size: 18px;
     display: flex;
